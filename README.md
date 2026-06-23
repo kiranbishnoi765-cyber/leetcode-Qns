@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0074-search-a-2d-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0229-majority-element-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0229-majority-element-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0229-majority-element-ii) |
 ## Union-Find
 |  |
 | ------- |
@@ -58,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0229-majority-element-ii) |
 ## Math
 |  |
 | ------- |
