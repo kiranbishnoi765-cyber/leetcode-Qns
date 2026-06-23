@@ -27,7 +27,7 @@ public:
             if(x==el1){
                 fq1++;
                 
-            }else if(x==el2){
+            }if(x==el2){
                 fq2++;     
             }
         }
