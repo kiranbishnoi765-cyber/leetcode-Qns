@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0229-majority-element-ii) |
+| [1470-shuffle-the-array](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
