@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0018-4sum) |
 | [0074-search-a-2d-matrix](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0074-search-a-2d-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0229-majority-element-ii) |
 | [1470-shuffle-the-array](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/1470-shuffle-the-array) |
@@ -82,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2073-time-needed-to-buy-tickets](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/2073-time-needed-to-buy-tickets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
