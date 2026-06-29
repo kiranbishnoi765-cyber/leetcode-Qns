@@ -24,10 +24,10 @@ public:
         while(list1!=NULL && list2!=NULL){
            if(list1->val <= list2->val) {
                 curr->next = new ListNode(list1->val);
-                list1 = list1->next;  // sirf list1 aage badhi
+                list1 = list1->next;  
             } else {
                  curr->next = new ListNode(list2->val);
-                 list2 = list2->next;  // sirf list2 aage badhi
+                 list2 = list2->next;  
             }
             curr = curr->next;
 
