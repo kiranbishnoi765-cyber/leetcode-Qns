@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0229-majority-element-ii) |
+| [0455-assign-cookies](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0485-max-consecutive-ones) |
 | [1470-shuffle-the-array](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/1929-concatenation-of-array) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0234-palindrome-linked-list) |
+| [0455-assign-cookies](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0229-majority-element-ii) |
+| [0455-assign-cookies](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0455-assign-cookies) |
 ## Hash Table
 |  |
 | ------- |
@@ -138,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0042-trapping-rain-water) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
