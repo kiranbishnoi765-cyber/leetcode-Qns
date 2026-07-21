@@ -22,20 +22,17 @@ public:
             cnt++;
             curr=curr->next;
         }
+        curr->next=temp;
         k=k%cnt;
-
-        while(k!=0){
-             curr=temp;
-            
-            while(curr->next->next!=NULL){
-                curr=curr->next;
-            }
-            curr->next->next=temp;
-            temp=curr->next;
-            curr->next=NULL;
-            k--;
+        curr=head;
+        for(int i=1;i<cnt-k;i++){
+            curr=curr->next;
         }
+        temp=curr->next;
+        curr->next=NULL;
         return temp;
+        
+
         
     }
 };
