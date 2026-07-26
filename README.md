@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0042-trapping-rain-water) |
 | [0074-search-a-2d-matrix](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0169-majority-element) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0136-single-number) |
 ## Linked List
 |  |
@@ -158,4 +160,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
