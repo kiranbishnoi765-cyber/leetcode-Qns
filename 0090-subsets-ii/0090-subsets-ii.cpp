@@ -12,7 +12,7 @@ public:
         temp.pop_back();
         
         
-        int next = i;
+        int next = i+1;
         while(next < nums.size() && nums[next] == nums[i]) next++;
         sets(nums,next,temp,val);
     }
