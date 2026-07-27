@@ -3,7 +3,7 @@ class Solution:
         ans = []
         def getperms(nums: list[int], val: int, ans: list[list[int]]):
             if val == len(nums):
-                ans.append(nums[:])    # fixed — copy, not reference
+                ans.append(nums[:])  
                 return
             for i in range(val, len(nums)):
                 nums[val], nums[i] = nums[i], nums[val]
