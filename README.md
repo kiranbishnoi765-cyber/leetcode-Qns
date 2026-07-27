@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0046-permutations) |
 | [0074-search-a-2d-matrix](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0090-subsets-ii) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
