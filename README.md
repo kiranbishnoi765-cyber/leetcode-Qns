@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0540-single-element-in-a-sorted-array) |
+| [0704-binary-search](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0704-binary-search) |
 | [1470-shuffle-the-array](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/1929-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/2073-time-needed-to-buy-tickets) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0074-search-a-2d-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0540-single-element-in-a-sorted-array) |
+| [0704-binary-search](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0704-binary-search) |
 ## Matrix
 |  |
 | ------- |
