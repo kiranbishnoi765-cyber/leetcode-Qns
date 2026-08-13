@@ -1,8 +1,7 @@
 class Solution:
     def searchRange(self, nums: List[int], target: int) -> List[int]:
         n=len(nums)
-        st_pt=n-1
-        end_pt=0
+       
         if n==0:
             return [-1,-1]
             
