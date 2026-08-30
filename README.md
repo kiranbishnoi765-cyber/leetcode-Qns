@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0704-binary-search) |
+| [0735-asteroid-collision](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0735-asteroid-collision) |
 | [1470-shuffle-the-array](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/1929-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/2073-time-needed-to-buy-tickets) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0735-asteroid-collision) |
 | [1929-concatenation-of-array](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/1929-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/2073-time-needed-to-buy-tickets) |
 ## Queue
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0234-palindrome-linked-list) |
+| [0735-asteroid-collision](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0735-asteroid-collision) |
 ## Dynamic Programming
 |  |
 | ------- |
