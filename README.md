@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0234-palindrome-linked-list) |
 | [0735-asteroid-collision](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0735-asteroid-collision) |
+| [0901-online-stock-span](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0901-online-stock-span) |
 | [2104-sum-of-subarray-ranges](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/2104-sum-of-subarray-ranges) |
 ## Dynamic Programming
 |  |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0042-trapping-rain-water) |
+| [0901-online-stock-span](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0901-online-stock-span) |
 | [2104-sum-of-subarray-ranges](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/2104-sum-of-subarray-ranges) |
 ## Greedy
 |  |
@@ -188,4 +190,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0090-subsets-ii) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
