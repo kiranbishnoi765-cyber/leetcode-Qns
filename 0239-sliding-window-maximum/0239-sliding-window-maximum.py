@@ -3,7 +3,7 @@ class Solution:
     def maxSlidingWindow(self, nums: List[int], k: int) -> List[int]:
         out=[]
         dq=deque()
-        n=len(nums)
+        
         for i,x in enumerate(nums):
             if dq and dq[0]<=i-k:
                 dq.popleft()
@@ -13,8 +13,7 @@ class Solution:
             if i>=k-1:
                 out.append(nums[dq[0]])
         return out
-            
 
-       
+            
             
         
