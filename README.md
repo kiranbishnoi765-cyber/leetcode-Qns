@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0735-asteroid-collision) |
+| [0904-fruit-into-baskets](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0904-fruit-into-baskets) |
 | [1470-shuffle-the-array](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/1929-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/2073-time-needed-to-buy-tickets) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0229-majority-element-ii) |
+| [0904-fruit-into-baskets](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0904-fruit-into-baskets) |
 ## Union-Find
 |  |
 | ------- |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0904-fruit-into-baskets](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0904-fruit-into-baskets) |
 ## Binary Search
 |  |
 | ------- |
