@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0229-majority-element-ii) |
+| [0239-sliding-window-maximum](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0239-sliding-window-maximum) |
 | [0455-assign-cookies](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0540-single-element-in-a-sorted-array) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0239-sliding-window-maximum) |
 | [0904-fruit-into-baskets](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0904-fruit-into-baskets) |
 ## Binary Search
 |  |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0239-sliding-window-maximum) |
 | [2073-time-needed-to-buy-tickets](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/2073-time-needed-to-buy-tickets) |
 ## Bit Manipulation
 |  |
@@ -201,4 +204,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0901-online-stock-span) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
