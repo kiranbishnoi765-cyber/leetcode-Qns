@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0239-sliding-window-maximum) |
 | [0455-assign-cookies](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0735-asteroid-collision) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0162-find-peak-element) |
+| [0493-reverse-pairs](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0704-binary-search) |
 ## Matrix
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0493-reverse-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -234,4 +237,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0142-linked-list-cycle-ii) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
