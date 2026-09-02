@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0735-asteroid-collision) |
+| [0875-koko-eating-bananas](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0904-fruit-into-baskets) |
 | [1470-shuffle-the-array](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/1929-concatenation-of-array) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/kiranbishnoi765-cyber/leetcode-Qns/tree/master/0875-koko-eating-bananas) |
 ## Matrix
 |  |
 | ------- |
